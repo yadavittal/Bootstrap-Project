@@ -61,7 +61,7 @@ html,body {
     display: flex;
     align-items: center;
     background-color: #f8f9fa;
-    background: url(../images/img/hero-bg.jpg) top left;
+    background: url("https://bootstrapmade.com/content/demo/BizLand/assets/img/hero-bg.jpg") top left;
     background-size: cover;
 }
 .home .container h1 {
